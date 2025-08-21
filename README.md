@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Neooon</h1>
-<h2>Real Name: Subhrakanti Das</h2>
+<h1 align="center">Hi 👋, I'm SHIVAM</h1>
+<h2>Real Name: Shivam Kumar</h2>
 <h3 align="center">A beginner and passionate CSE undergrad exploring Full Stack Development, DSA, and all things Tech 🚀</h3>
 
 - 🌱 Currently diving deeper into *DSA* and *Full Stack Development*
@@ -7,7 +7,7 @@
 - 📊 Keen on *Web Development, **Data Analysis*, and solving real-world problems using tech
 - 🎨 Creative mind with hobbies in *Photography, **Photo Editing*, and tools like Adobe Lightroom & Photoshop*
 - 🔭 Focused on improving *coding speed, learning **new technologies**, and building **web apps*** with real-world value
-- 📫 Reach out to me: **
+- 📫 Reach out to me: *shprasad614@gmail.com*
 
 ---
 
@@ -84,7 +84,8 @@ A responsive and minimal portfolio website to showcase projects and skills.
 
 <div align="center">
   
-![Trophies](https://github-profile-trophy.vercel.app/?username=Neon12-ofx&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=shprasad614&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 </div>
 

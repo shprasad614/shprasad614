@@ -48,8 +48,14 @@
 <div align="center">
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/shprasad614?theme=dark&font=Anonymous)
-![LeetCode Streak](https://leetcard.jacoblin.cool/streak/shprasad614?theme=dark)
-![Top Languages](https://leetcard.jacoblin.cool/shprasad614?theme=dark&font=Anonymous&hide_solved=false&hide_ranks=true)
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shprasad614&theme=merko&hide_border=false&show_icons=true)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=shprasad614&theme=merko&hide_border=false)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shprasad614&layout=compact&theme=merko&hide_border=false)
+
+</div>
+
 
 </div>
 
@@ -58,7 +64,8 @@
 
 ## 📊 Contribution Graph (Last 6 Months)
 
-[![leetcode.com/u/shprasad61 Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Neon12-ofx&bg_color=0d1117&color=ffffff&line=00e676&point=ffffff&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![shprasad614 Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shprasad614&bg_color=0d1117&color=ffffff&line=00e676&point=ffffff&area=true&hide_border=true)](https://github.com/shprasad614)
+
 
 
 ---

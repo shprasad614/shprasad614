@@ -88,7 +88,7 @@ A simple and interactive calculator built for practicing JavaScript fundamentals
 
 ---
 
-### 🔹 [E-Commerce Website 🛒](https://github.com/shprasad614/Ecommerce-Website)
+### 🔹 [E-Commerce Website 🛒](https://github.com/shprasad614/e-commerce)
 A basic front-end e-commerce website prototype for showcasing products.  
 - 🛠 Tech: HTML, CSS, JavaScript  
 - 💡 Beginner-friendly project to understand website structure and styling

@@ -4,7 +4,7 @@
 
 - 🌱 Currently diving deeper into *DSA* and *Full Stack Development*
 - 💻 Regularly practicing on [LeetCode](https://leetcode.com/u/shprasad614) and building cool projects on [GitHub](https://github.com/shprasad614)
-- 📊 Keen on *Web Development, **Data Analysis*, and solving real-world problems using tech
+- 📊 Keen on *Web Development*, **Data Analysis*, and solving real-world problems using tech
 - 🎨 Creative mind with hobbies in *Photography, **Photo Editing*, and tools like Adobe Lightroom & Photoshop*
 - 🔭 Focused on improving *coding speed, learning **new technologies**, and building **web apps*** with real-world value
 - 📫 Reach out to me: *shprasad614@gmail.com*

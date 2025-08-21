@@ -47,11 +47,12 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Neon12-ofx&theme=merko&hide_border=false&show_icons=true)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Neon12-ofx&theme=merko&hide_border=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Neon12-ofx&layout=compact&theme=merko&hide_border=false)
+![LeetCode Stats](https://leetcard.jacoblin.cool/shprasad614?theme=dark&font=Anonymous)
+![LeetCode Streak](https://leetcard.jacoblin.cool/streak/shprasad614?theme=dark)
+![Top Languages](https://leetcard.jacoblin.cool/shprasad614?theme=dark&font=Anonymous&hide_solved=false&hide_ranks=true)
 
 </div>
+
 
 ---
 

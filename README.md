@@ -3,7 +3,7 @@
 <h3 align="center">A beginner and passionate CSE undergrad exploring Full Stack Development, DSA, and all things Tech 🚀</h3>
 
 - 🌱 Currently diving deeper into *DSA* and *Full Stack Development*
-- 💻 Regularly practicing on [LeetCode](https://leetcode.com/u/shprasad61) and building cool projects on [GitHub](https://github.com/shprasad61)
+- 💻 Regularly practicing on [LeetCode](https://leetcode.com/u/shprasad614) and building cool projects on [GitHub](https://github.com/shprasad614)
 - 📊 Keen on *Web Development, **Data Analysis*, and solving real-world problems using tech
 - 🎨 Creative mind with hobbies in *Photography, **Photo Editing*, and tools like Adobe Lightroom & Photoshop*
 - 🔭 Focused on improving *coding speed, learning **new technologies**, and building **web apps*** with real-world value
@@ -72,11 +72,27 @@
 
 ## 🚀 Featured Projects
 
-### 🔹 [Personal Portfolio 🌐](https://github.com/Neon12-ofx/Portfolio)
-A responsive and minimal portfolio website to showcase projects and skills.
-- 🛠 Tech: HTML, CSS, JavaScript, React
-- 🌍 Fully responsive with modern UI
-- 🚀 Deployed on GitHub Pages
+
+### 🔹 [Personal Portfolio 🌐](https://github.com/shprasad614/Portfolio)
+A responsive and minimal portfolio website to showcase your projects and skills.  
+- 🛠 Tech: HTML, CSS, JavaScript  
+- 🌍 Fully responsive with a modern UI  
+- 🚀 Deployed on GitHub Pages  
+
+---
+
+### 🔹 [Calculator App 🧮](https://github.com/shprasad614/Calculator)
+A simple and interactive calculator built for practicing JavaScript fundamentals.  
+- 🛠 Tech: HTML, CSS, JavaScript  
+- 🎯 Focused on clean UI & responsive design  
+
+---
+
+### 🔹 [E-Commerce Website 🛒](https://github.com/shprasad614/Ecommerce-Website)
+A basic front-end e-commerce website prototype for showcasing products.  
+- 🛠 Tech: HTML, CSS, JavaScript  
+- 💡 Beginner-friendly project to understand website structure and styling
+
 
 ---
 
@@ -97,7 +113,8 @@ A responsive and minimal portfolio website to showcase projects and skills.
 ---
 
 ## 🔥 Visitor Count
-[![](https://visitcount.itsvg.in/api?id=Neon12-ofx&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=shprasad614&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 ---
 
